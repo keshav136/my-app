@@ -18,8 +18,8 @@
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white"
         android:padding="20dp"
-        android:textSize="36sp"
-        android:text="Happy Birthday To You" />
+        android:textSize="40sp"
+        android:text="Happy Birthday To You!!!" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -28,6 +28,16 @@
         android:fontFamily="sans-serif-light"
         android:padding="20dp"
         android:textColor="@android:color/white"
-        android:textSize="36sp"
-        android:text="By Vyom" />
+        android:textSize="40sp"
+        android:text="By Vyom!!!!!!!!!!" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:fontFamily="sans-serif-light"
+        android:padding="20dp"
+        android:textColor="@android:color/white"
+        android:textSize="40sp"
+        android:text="Thanks" />
 </RelativeLayout>
